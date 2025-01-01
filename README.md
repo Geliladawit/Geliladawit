@@ -24,7 +24,7 @@ A Django enthusiast.
 ---
 
 ### 📫 Let's Connect! 
-- 📧 Email: gelila.d.asrat@gmail.com@gmail.com
+- 📧 Email: gelila.d.asrat@gmail.com
 
 ---
 
