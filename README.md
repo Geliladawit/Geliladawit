@@ -6,8 +6,10 @@ A Django enthusiast.
 ---
 
 ### 🌟 About Me
+- 🏫 I'm a 4th year Software Engineering student at BahirDar University | A2SVian.
+- 👩‍💼 Intern at Africa to Silicon Valley(A2SV)
 - 🔭 I’m currently working on **creating APIs** and **backend web development** projects.
-- 🌱 I’m learning **Python optimization techniques**.
+- 🌱 Started learning Go
 - 💬 Ask me about Django
 ---
 
