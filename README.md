@@ -1,16 +1,16 @@
 ## Hi there! I'm Gelila Dawit👋
 
-A Backend Developer.
+Backend Developer | Software Engineering Student | A2SVian
 
 
 ---
 
 ### 🌟 About Me
-- 🏫 I'm a 4th year Software Engineering student at BahirDar University | A2SVian.
-- 👩‍💼 Intern at Africa to Silicon Valley(A2SV)
-- 🔭 I’m currently working on **backend web development** projects.
-- 🌱 Learning Go and building telegram bots.
-- 💬 Ask me about Django
+- 🎓 5th-year Software Engineering student at Bahir Dar University
+- 🚀 A2SVian, backed by Google
+- 🔭 Currently exploring Mobile App Development with Flutter
+- ⚙️ Passionate about AI, Data Structures, and Algorithms
+- 💬 Ask me about Django, Go, or RESTful APIs
 ---
 
 ### 🛠️ Skills & Tools
@@ -24,15 +24,23 @@ A Backend Developer.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+
 </div>
+
 ---
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geliladawit&layout=compact&theme=radical" height="180em"/> </div>
+
+---
+
+
 
 ### 📫 Let's Connect! 
 - 📧 Email: gelila.d.asrat@gmail.com
-
----
-
-
 
 <!--
 **Geliladawit/Geliladawit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
