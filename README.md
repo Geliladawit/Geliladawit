@@ -1,7 +1,10 @@
-## Hi there! I'm Gelila Dawit👋
+<div align="center">
 
-Backend Developer | Software Engineering Student | A2SVian
+## 👋 Hi there! I'm **Gelila Dawit**
 
+**Backend Developer | Software Engineering Student | A2SVian**
+
+</div>
 
 ---
 
