@@ -2,14 +2,14 @@
 
 ## 👋 Hi there! I'm **Gelila Dawit**
 
-**Backend Developer | Software Engineering Student | A2SVian**
+**Backend Developer | Software Engineer | A2SVian**
 
 </div>
 
 ---
 
 ### 🌟 About Me
-- 🎓 5th-year Software Engineering student at Bahir Dar University
+- 🎓 Software Engineer
 - 🚀 A2SVian, backed by Google
 - 🔭 Currently exploring Mobile App Development with Flutter
 - ⚙️ Passionate about AI, Data Structures, and Algorithms
