@@ -2,7 +2,7 @@
 
 ## 👋 Hi there! I'm **Gelila Dawit**
 
-**Backend Developer | Software Engineer | A2SVian**
+**Backend Developer | Software Engineer **
 
 </div>
 
@@ -10,7 +10,6 @@
 
 ### 🌟 About Me
 - 🎓 Software Engineer
-- 🚀 A2SVian, backed by Google
 - 🔭 Currently exploring Mobile App Development with Flutter
 - ⚙️ Passionate about AI, Data Structures, and Algorithms
 - 💬 Ask me about Django, Go, or RESTful APIs
